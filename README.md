@@ -118,14 +118,6 @@ enhanced_images = autoencoder.predict(generated_images)
   - Binary cross-entropy loss
   - 50 epochs of training
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
-
 ## Acknowledgments
 
 - CelebA dataset for providing the training data
